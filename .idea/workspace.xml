@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f7c1243-a726-46e1-a4d7-5c1c30bb5ced" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode-kotlin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructs.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/20.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/21.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/24.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/25.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/26.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/27.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/28.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/29.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/30.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/31.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/32.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/32_2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/32_3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/33.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/34.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/35.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/36.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/37.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/38.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/39.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/40.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/41.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/42.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/44.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/46.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/47.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/49.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/50.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/52.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/55_1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/55_2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/56_1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/56_2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/57_1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/57_2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/58.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/58_2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/59_1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/60.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/62.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/63.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/64.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/offer/65.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin Sealed Class" />
+        <option value="Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-common/1.7.20/kotlin-stdlib-common-1.7.20-sources.jar!/kotlin/text/Strings.kt" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2K8gMS9VrPrypApLMa8htwl8Mzd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/eynnzerr/open/JetBrainsWorkSpace/IDEA/leetcode-kotlin&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Color Scheme Font&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Kotlin._59_1Kt">
+    <configuration name="Solution36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer.Solution36" />
+      <module name="leetcode-kotlin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_41Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer._41Kt" />
+      <module name="leetcode-kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_57_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer._57_2Kt" />
+      <module name="leetcode-kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_58Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer._58Kt" />
+      <module name="leetcode-kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_59_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer._59_1Kt" />
+      <module name="leetcode-kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin._59_1Kt" />
+        <item itemvalue="Kotlin._58Kt" />
+        <item itemvalue="Kotlin._57_2Kt" />
+        <item itemvalue="Kotlin._41Kt" />
+        <item itemvalue="Application.Solution36" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f7c1243-a726-46e1-a4d7-5c1c30bb5ced" name="Changes" comment="" />
+      <created>1673361577273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673361577273</updated>
+      <workItem from="1673361578486" duration="6454000" />
+      <workItem from="1673404681337" duration="6307000" />
+      <workItem from="1673502409631" duration="2629000" />
+      <workItem from="1674012097054" duration="3108000" />
+      <workItem from="1675759175248" duration="453000" />
+      <workItem from="1678797407512" duration="334000" />
+      <workItem from="1678803047077" duration="2541000" />
+      <workItem from="1678809442869" duration="3079000" />
+      <workItem from="1678883232432" duration="4691000" />
+      <workItem from="1678960702671" duration="1782000" />
+      <workItem from="1679021707630" duration="7867000" />
+      <workItem from="1679141422654" duration="5492000" />
+      <workItem from="1679281585146" duration="5650000" />
+      <workItem from="1679292404441" duration="2074000" />
+      <workItem from="1679327343985" duration="628000" />
+      <workItem from="1679327985477" duration="24000" />
+      <workItem from="1679328085133" duration="18000" />
+      <workItem from="1679366890823" duration="5691000" />
+      <workItem from="1679532848474" duration="2480000" />
+      <workItem from="1679752403680" duration="2023000" />
+      <workItem from="1679809045921" duration="1810000" />
+      <workItem from="1679816007911" duration="8513000" />
+      <workItem from="1679885209299" duration="2624000" />
+      <workItem from="1679889194078" duration="3229000" />
+      <workItem from="1679896991522" duration="4789000" />
+      <workItem from="1679974012121" duration="2422000" />
+      <workItem from="1679984538650" duration="4617000" />
+      <workItem from="1679990731662" duration="5531000" />
+      <workItem from="1679998662039" duration="1230000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/offer/34.kt</url>
+          <line>41</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/offer/57_2.kt</url>
+          <line>27</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/offer/58.kt</url>
+          <line>48</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
